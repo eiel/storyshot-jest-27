@@ -1,8 +1,15 @@
 {
   "name": "@eiel/storyshot-jest-27",
   "packageManager": "yarn@3.1.1",
+  "main": "dist/injectFileName.js",
   "engines": {
     "nodeCommment": "@see https://github.com/facebook/jest/blob/v27.4.7/package.json#L149",
     "node": "^10.13.0 || ^12.13.0 || ^14.15.0 || >=15.0.0"
+  },
+  "devDependencies": {
+    "@jest/transform": "^27.4.6",
+    "@jest/types": "^27.4.2",
+    "@types/node": "10",
+    "typescript": "^4.5.5"
   }
 }
