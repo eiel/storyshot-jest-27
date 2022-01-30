@@ -1435,7 +1435,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["eslint", [
         ["npm:8.8.0", {
-          "packageLocation": "./.yarn/unplugged/eslint-npm-8.8.0-4abd179cd9/node_modules/eslint/",
+          "packageLocation": "./.yarn/cache/eslint-npm-8.8.0-4abd179cd9-41a7e85bf8.zip/node_modules/eslint/",
           "packageDependencies": [
             ["eslint", "npm:8.8.0"],
             ["@eslint/eslintrc", "npm:1.0.5"],
