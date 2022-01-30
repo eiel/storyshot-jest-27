@@ -1,7 +1,12 @@
 {
   "name": "@eiel/storyshot-jest-27",
+  "version": "0.0.1-rc",
+  "private": false,
   "packageManager": "yarn@3.1.1",
   "main": "dist/injectFileName.js",
+  "files": [
+    "dist/injectFileName.js"
+  ],
   "engines": {
     "nodeCommment": "@see https://github.com/facebook/jest/blob/v27.4.7/package.json#L149",
     "node": "^10.13.0 || ^12.13.0 || ^14.15.0 || >=15.0.0"
