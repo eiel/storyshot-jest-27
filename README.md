@@ -14,7 +14,7 @@ npm install -D @eiel/storyshot-jest-27
 
 update `jest.config.js` for storyshot
 
-````diff
+```diff
 transform: {
 -  '^.+\\.stories\\.tsx?$': '@storybook/addon-storyshots/injectFileName',
 +  '^.+\\.stories\\.tsx?$': '@eiel/storyshot-jest-27',
