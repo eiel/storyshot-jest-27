@@ -70,7 +70,7 @@ function createTranslateParams(
 /**
  * @see https://jestjs.io/docs/code-transformation
  */
-const transformer: SyncTransformer = {
+export const injectFileName: SyncTransformer = {
   canInstrument: true,
   process: (
     sourceText: string,
@@ -94,4 +94,4 @@ const transformer: SyncTransformer = {
   },
 };
 
-export default transformer;
+export default injectFileName;
