@@ -1307,7 +1307,7 @@ __metadata:
     "@jest/transform": ^27.4.6
     "@jest/types": ^27.4.2
     "@types/jest": ^27.4.0
-    "@types/node": 10
+    "@types/node": 16.11.22
     "@typescript-eslint/eslint-plugin": ^5.10.1
     "@typescript-eslint/parser": ^5.10.1
     babel-jest: ^27.4.6
@@ -1754,10 +1754,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:10":
-  version: 10.17.60
-  resolution: "@types/node@npm:10.17.60"
-  checksum: 2cdb3a77d071ba8513e5e8306fa64bf50e3c3302390feeaeff1fd325dd25c8441369715dfc8e3701011a72fed5958c7dfa94eb9239a81b3c286caa4d97db6eef
+"@types/node@npm:16.11.22":
+  version: 16.11.22
+  resolution: "@types/node@npm:16.11.22"
+  checksum: 9d879b9b0427e21a11e3162917553d5bc3c7d68d1ef4aa631512144801fe59bc3b4da5965e7ea7c2db99394487b543d4f2499b318e12392574802ac4f975b7c4
   languageName: node
   linkType: hard
 
