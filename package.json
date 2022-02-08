@@ -11,7 +11,7 @@
   "license": "MIT",
   "author": "Tomohiko Himura <eiel.hal@gmail.com>",
   "repository": "github:eiel/storyshot-jest-27",
-  "version": "0.0.4-dev",
+  "version": "0.0.5-dev",
   "packageManager": "yarn@3.1.1",
   "main": "dist/injectFileName.js",
   "files": [
@@ -43,5 +43,5 @@
     "prettier-plugin-import-sort": "^0.0.7",
     "typescript": "^4.5.5"
   },
-  "stableVersion": "0.0.3"
+  "stableVersion": "0.0.4"
 }
