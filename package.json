@@ -12,7 +12,7 @@
   "author": "Tomohiko Himura <eiel.hal@gmail.com>",
   "repository": "github:eiel/storyshot-jest-27",
   "version": "0.0.5-dev",
-  "packageManager": "yarn@3.1.1",
+  "packageManager": "yarn@3.2.0",
   "main": "dist/injectFileName.js",
   "files": [
     "dist/**",
