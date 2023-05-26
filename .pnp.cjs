@@ -34,7 +34,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/transform", "npm:29.5.0"],\
             ["@jest/types", "npm:29.5.0"],\
             ["@types/jest", "npm:29.5.1"],\
-            ["@types/node", "npm:18.16.13"],\
+            ["@types/node", "npm:18.16.16"],\
             ["@typescript-eslint/eslint-plugin", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:5.59.7"],\
             ["@typescript-eslint/parser", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:5.59.7"],\
             ["babel-jest", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:29.5.0"],\
@@ -3582,7 +3582,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/transform", "npm:29.5.0"],\
             ["@jest/types", "npm:29.5.0"],\
             ["@types/jest", "npm:29.5.1"],\
-            ["@types/node", "npm:18.16.13"],\
+            ["@types/node", "npm:18.16.16"],\
             ["@typescript-eslint/eslint-plugin", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:5.59.7"],\
             ["@typescript-eslint/parser", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:5.59.7"],\
             ["babel-jest", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:29.5.0"],\
@@ -4269,10 +4269,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:18.16.13", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-18.16.13-f892f0d4be-ec1ffb8147.zip/node_modules/@types/node/",\
+        ["npm:18.16.16", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-18.16.16-8a41330dc3-0efad726dd.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:18.16.13"]\
+            ["@types/node", "npm:18.16.16"]\
           ],\
           "linkType": "HARD"\
         }]\
