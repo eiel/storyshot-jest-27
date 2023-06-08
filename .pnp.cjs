@@ -33,7 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/preset-typescript", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:7.21.5"],\
             ["@jest/transform", "npm:29.5.0"],\
             ["@jest/types", "npm:29.5.0"],\
-            ["@types/jest", "npm:29.5.1"],\
+            ["@types/jest", "npm:29.5.2"],\
             ["@types/node", "npm:18.16.16"],\
             ["@typescript-eslint/eslint-plugin", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:5.59.7"],\
             ["@typescript-eslint/parser", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:5.59.7"],\
@@ -3581,7 +3581,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/preset-typescript", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:7.21.5"],\
             ["@jest/transform", "npm:29.5.0"],\
             ["@jest/types", "npm:29.5.0"],\
-            ["@types/jest", "npm:29.5.1"],\
+            ["@types/jest", "npm:29.5.2"],\
             ["@types/node", "npm:18.16.16"],\
             ["@typescript-eslint/eslint-plugin", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:5.59.7"],\
             ["@typescript-eslint/parser", "virtual:59ccb74eee2f82d25eb3148bca9a4634d8f0144fbc7e5d860a84fe85724097725994723e7282841e613dfb455afae804746d86d9499675359827a76578aeae2b#npm:5.59.7"],\
@@ -4242,10 +4242,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/jest", [\
-        ["npm:29.5.1", {\
-          "packageLocation": "./.yarn/cache/@types-jest-npm-29.5.1-0eddfd7e9a-0a22491dec.zip/node_modules/@types/jest/",\
+        ["npm:29.5.2", {\
+          "packageLocation": "./.yarn/cache/@types-jest-npm-29.5.2-1a72e55a50-7d205599ea.zip/node_modules/@types/jest/",\
           "packageDependencies": [\
-            ["@types/jest", "npm:29.5.1"],\
+            ["@types/jest", "npm:29.5.2"],\
             ["expect", "npm:29.5.0"],\
             ["pretty-format", "npm:29.5.0"]\
           ],\
