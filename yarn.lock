@@ -2012,7 +2012,7 @@ __metadata:
     "@jest/transform": 29.5.0
     "@jest/types": 29.5.0
     "@types/jest": 29.5.2
-    "@types/node": 18.16.18
+    "@types/node": 18.19.26
     "@typescript-eslint/eslint-plugin": 5.60.1
     "@typescript-eslint/parser": 5.60.1
     babel-jest: 29.5.0
@@ -2610,10 +2610,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.16.18":
-  version: 18.16.18
-  resolution: "@types/node@npm:18.16.18"
-  checksum: d32d8a0a04cd3f5ecb361bcb42f3a07623881ac90d680e06bf626defb3c663a94860d11690babe607cfe67265eceeb8a59ba5fe40c0e49f5a1b01e0088640469
+"@types/node@npm:18.19.26":
+  version: 18.19.26
+  resolution: "@types/node@npm:18.19.26"
+  dependencies:
+    undici-types: ~5.26.4
+  checksum: d72d4e7e520206a2a05cb3e03a73696fc3bdcdc6ba5330a75cfef4818cb137b260c32dfe85e8b4ea28e8fe92f1d1497e26336c607254c5eaf47032a1b1c8bb6e
   languageName: node
   linkType: hard
 
@@ -6304,6 +6306,13 @@ __metadata:
     tsc: bin/tsc
     tsserver: bin/tsserver
   checksum: dc7141ab555b23a8650a6787f98845fc11692063d02b75ff49433091b3af2fe3d773650dea18389d7c21f47d620fb3b110ea363dab4ab039417a6ccbbaf96fc2
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~5.26.4":
+  version: 5.26.5
+  resolution: "undici-types@npm:5.26.5"
+  checksum: 3192ef6f3fd5df652f2dc1cd782b49d6ff14dc98e5dced492aa8a8c65425227da5da6aafe22523c67f035a272c599bb89cfe803c1db6311e44bed3042fc25487
   languageName: node
   linkType: hard
 
